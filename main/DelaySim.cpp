@@ -1,3 +1,9 @@
+//Author: Shree Ganesh Wooradi
+
+//Copyright (c) 2024 Shree Ganesh Wooradi
+
+//Project: Ripple Carry Adder Delay Simulation
+
 #include <iostream>
 #include <array>
 #include <math.h>
